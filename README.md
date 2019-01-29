@@ -1,8 +1,17 @@
 <img align="right" width="120" alt="rmotr.com" src="https://user-images.githubusercontent.com/7065401/45454218-80bee800-b6b9-11e8-97bb-bb5e7675f440.png">
 
 # Math Fundamentals for Data Science
+> An curated and actionable list of videos to learn the fundamentals of Math for Data Science
 
-Intro Course: Math Fundamentals for Data Science.
+You don't need a PhD in Math to start with Data Science. Most resources will list tens of **entire courses** that you have to take, **before** writing your first line of code.
+
+We believe that is counter-productive: it demoralizes and shifts the main focus of your studies. To get started with Data Science you need fundamental Stats concepts, some linear algebra and calculus. **It shouldn't take you more than 2 weeks** (assuming a base math background from high school).
+
+This is a list of hand-picked videos, aiming for simplicity; you should be able to start applying these concepts in practice as soon as possible.
+
+**Important**: This list is open to collaboration. Please submit an issue. Also, we're working to incorporate practical exercises for each concept. Stay tuned.
+
+---
 
 - [Curriculum](#curriculum)
   - [Statistics and Probability](#statistics-and-probability)
