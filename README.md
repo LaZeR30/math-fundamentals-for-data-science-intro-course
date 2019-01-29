@@ -224,6 +224,12 @@ _coming soon_
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/rmotr/math-fundamentals-for-data-science-intro-course/blob/master/CONTRIBUTING.md) first.
 
+# List of contributors
+
+<img width="150px" style="border-radius: 50%;"  src="https://avatars1.githubusercontent.com/u/7065401?v=4"> | <img width="150px" style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/47156117?v=4"> | <img width="150px" style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/872296?s=460&v=4">
+:---:|:---:|:---:
+[Matías Caputti](https://github.com/matiascaputti) | [Cintia Rodriguez](https://github.com/cintiarmotr) | [Santiago Basulto](https://github.com/santiagobasulto)
+
 - - -
 
 If you have any question about this opinionated list, do not hesitate to contact us [@rmotr_com](https://twitter.com/rmotr_com) on Twitter or open an issue on GitHub.
