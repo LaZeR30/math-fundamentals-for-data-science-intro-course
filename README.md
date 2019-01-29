@@ -1,7 +1,7 @@
-<img align="right" width="120" alt="rmotr.com" src="https://user-images.githubusercontent.com/7065401/45454218-80bee800-b6b9-11e8-97bb-bb5e7675f440.png">
-
 # Math Fundamentals for Data Science
 > An curated and actionable list of videos to learn the fundamentals of Math for Data Science
+
+![math-fundamentals-for-data-science-intro-course](https://user-images.githubusercontent.com/7065401/51930817-2b6e4380-23da-11e9-8d14-679e3ead6e27.png)
 
 You don't need a PhD in Math to start with Data Science. Most resources will list tens of **entire courses** that you have to take, **before** writing your first line of code.
 
@@ -27,6 +27,10 @@ This is a list of hand-picked videos, aiming for simplicity; you should be able 
     - [Statistics and Parameter Estimation](#statistics-and-parameter-estimation)
     - [Regression and PCA](#regression-and-pca)
     - [Confidence Intervals and Hypothesis Testing](#confidence-intervals-and-hypothesis-testing)
+  - [Algebra](#algebra)
+    - _coming soon_
+  - [Calculus](#calculus)
+    - _coming soon_
 - [Contributing](#contributing)
 
 - - -
